@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Galane Basha Namomsa
 
-## Computer Engineer
+<h1 align="center">Computer Engineer</h1>
 
 - 🔭 I’m currently working on as a **Research Associate at CMU-Africa**
 - 🌱 I’m also a **Quantum and AI Fellow at Womanium Quantum**
