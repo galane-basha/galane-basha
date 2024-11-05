@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Galane Basha Namomsa
+<h1 align="center"> Hi there 👋, I'm Galane Basha Namomsa </h1>
 
 <h2 align="center">Computer Engineer</h2>
 
