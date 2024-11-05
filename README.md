@@ -1,9 +1,6 @@
 ## Hi there 👋, I'm Galane Basha Namomsa
 
-<!--
-**galane-basha/galane-basha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Computer Engineer
 
 - 🔭 I’m currently working on as a **Research Associate at CMU-Africa**
 - 🌱 I’m also a **Quantum and AI Fellow at Womanium Quantum**
